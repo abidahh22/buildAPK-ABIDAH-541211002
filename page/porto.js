@@ -46,7 +46,7 @@ const HomePage = () => {
         </View>
         <Text style={styles.textStyle}>Abidah F</Text>
         <Text style={styles.smallTextStyle}>
-          Perkenalkan, saya pencinta pantat
+          Perkenalkan, saya siswa stematel yang paling gemoy
         </Text>
         <TouchableOpacity style={styles.buttonDetailed} onPress={a}>
           <Text style={styles.buttonTextDetailed}>About Me</Text>
